@@ -1,5 +1,5 @@
 export const generalData = {
-  name: "John Doe",
+  name: "lara shqer",
   avatar: "https://github.com/ibelick.png",
   jobTitle: "Senior Front-End Developer",
   website: "https://www.julienthibeaut.xyz",
@@ -8,13 +8,13 @@ export const generalData = {
   contacts: [
     {
       label: "Email",
-      value: "john.doe@gmail.com",
-      href: "mailto:john.doe@gmail.com",
+      value: "lara.shqer1@gmail.com",
+      href: "lara.shqer1@gmail.com",
     },
     {
-      label: "Twitter",
-      value: "ibelick",
-      href: "https://twitter.com/ibelick",
+      label: "linkedin",
+      value: "https://www.linkedin.com/in/lara-shqer-0749a323a/",
+      href: "https://www.linkedin.com/in/lara-shqer-0749a323a/",
     },
     {
       label: "Github",
